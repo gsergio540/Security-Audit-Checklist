@@ -36,17 +36,17 @@ Botium Toys has decent physical security controls in place, but significant gaps
 
 ## Recommendations
  ### Improve
-      - Establish IDS (Intrusion detection system)
-      - Centralized password management system.
-      - Utilize encryption for PII/SPII.
-      - Implement a more complex password policy.
-      - Implement access controls pertaining to least privilege and separation of duties. 
-      - Establish disaster recovery plan and backups of critical data.
+   - Establish IDS (Intrusion detection system)
+   - Centralized password management system.
+   - Utilize encryption for PII/SPII.
+   - Implement a more complex password policy.
+   - Implement access controls pertaining to least privilege and separation of duties. 
+   - Establish disaster recovery plan and backups of critical data.
 
 ### Sustain
-      - Availability and integrated controls for data integrity.
-      - European Union 72 hour customer notfication plan in case of data breach.
-      - locks, CCTV surveillance, and functioning fire detection and prevention systems.
+   - Availability and integrated controls for data integrity.
+   - European Union 72 hour customer notfication plan in case of data breach.
+   - Locks, CCTV surveillance, and functioning fire detection and prevention systems.
 
 
 ## Frameworks/Regulations Referenced
